@@ -53,8 +53,8 @@ section {
   }
   .favorito-btn {
     position: absolute;
-    top: 32px;
-    right: 16px;
+    top: 7px;
+    right: 15px;
     background-color: transparent;
     border: none;
     cursor: pointer;
